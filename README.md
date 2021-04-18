@@ -5,18 +5,12 @@
 #### Description
 ## This is a music website that allows users to see and learn about the various artists, also allows other users who have signed up to comment . It also allows a person to stream some of the best pop music and others.
 
-### Live Link
-[]
-
-
 ## Development Installation   
 ## To get the code..
 ## https://github.com/cyruswere/My-favorite-band.git
 
 ## Cloning the repository:
 ## https://github.com/cyruswere/My-favorite-band.git
-
-
 
 ## Technology used
 ## html,css
