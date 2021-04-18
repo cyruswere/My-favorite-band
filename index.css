@@ -28,7 +28,8 @@ h1{
   text-align: left;
   padding: 20px;
   border-style: double;
-  border-color: beige; 
+  border-color: beige;
+  background-clip: content-box; 
 }
 header{
     font-weight: bold;
