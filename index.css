@@ -4,6 +4,7 @@ body{
     background-size: cover;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-weight: 500px;
+    text-align: center;
 }
 ol{
    font-style: italic;
@@ -44,6 +45,9 @@ div{
 #logo{
     height: 100px;
     width: 100px;
+}
+#songs{
+    text-align: right;
 }
 
 
