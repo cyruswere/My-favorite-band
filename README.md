@@ -1,6 +1,6 @@
 ## My favorite band
-## Author
-## Cyrus
+### Author
+## Cyrus Were
 
 #### Description
 ## This is a music website that allows users to see and learn about the various artists, also allows other users who have signed up to comment . It also allows a person to stream some of the best pop music and others.
