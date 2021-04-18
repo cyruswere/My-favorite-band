@@ -34,5 +34,10 @@ header{
     display: block;
 
 }
+div{
+    flex-direction: column;
+    font-family: fantasy;
+    font-style: initial;
+}
 
 
