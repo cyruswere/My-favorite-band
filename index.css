@@ -8,7 +8,9 @@ body{
 ol{
    font-style: italic;
    text-emphasis-color:#502c4d ;
-   
+   background-color: #808080;
+   border: 3px dotted beige;
+   width: fit-content;
 }
 .strong{
     font-weight: bolder
