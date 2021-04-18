@@ -1,4 +1,4 @@
-## My favorite band
+### My favorite band
 ### Author
 ## Cyrus Were
 
