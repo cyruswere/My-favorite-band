@@ -17,7 +17,8 @@ ol{
 }
 img{
     background-color: beige;
-    margin:0, 0, 0, 5px;
+    width: 200px;
+    height: 200px;
     display: inline;
 }
 h1{
