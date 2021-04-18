@@ -9,6 +9,7 @@ ol{
    font-style: italic;
    text-emphasis-color:#502c4d ;
    background-color: #808080;
+   background-clip: border-box;
    border: 3px dotted beige;
    width: fit-content;
 }
