@@ -9,7 +9,7 @@ body{
 ol{
    font-style: italic;
    text-emphasis-color:#502c4d ;
-   background-color: #414345;
+   background-color: transparent;
    background-clip: border-box;
    border: 3px double beige;
    width: fit-content;
