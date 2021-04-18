@@ -51,7 +51,8 @@ div{
 }
 #names{
     text-align: left;
-  
+    background-color: rgb(178, 184, 190);
+    width: fit-content;
    
 }
 
