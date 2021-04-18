@@ -40,5 +40,10 @@ div{
     font-family: fantasy;
     font-style: initial;
 }
+#logo{
+    height: 100px;
+    width: 100px;
+}
+
 
 
