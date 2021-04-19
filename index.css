@@ -13,6 +13,7 @@ ol{
    background-clip: border-box;
    border: 3px double beige;
    width: fit-content;
+   text-align: left;
 }
 .strong{
     font-weight: bolder
