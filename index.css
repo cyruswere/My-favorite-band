@@ -14,6 +14,7 @@ ol{
    border: 3px double beige;
    width: fit-content;
    text-align: left;
+   border-radius: 20px;
 }
 .strong{
     font-weight: bolder
@@ -54,6 +55,7 @@ div{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-style: italic;
     background-color: transparent;
+    border-radius: 20px;
 }
 #names{
     text-align: left;
@@ -63,6 +65,31 @@ div{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: bolder;
     
+}
+.song1:hover{
+    background: rgb(161, 94, 170);
+    color: mintcream;
+    transition: .4s;
+}
+.song2:hover{
+    background: rgb(161, 94, 170);
+    color: mintcream;
+    transition: .4s;
+}
+.song3:hover{
+    background: rgb(161, 94, 170);
+    color: mintcream;
+    transition: .4s;
+}
+.song4:hover{
+    background: rgb(161, 94, 170);
+    color: mintcream;
+    transition: .4s;
+}
+.song5:hover{
+    background: rgb(161, 94, 170);
+    color: mintcream;
+    transition: .4s;
 }
 
 
